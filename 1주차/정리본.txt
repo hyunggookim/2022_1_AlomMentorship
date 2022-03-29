@@ -1,0 +1,4 @@
+1) manifests : AndroidManifest.xml 파일이 들어있는 폴더 이 파일에는 액티비티를 어떻게 시작할 지와 앱의 정보가 들어있음
+2) res : resource와 관련된 내용이 들어가며 이미지, 색깔, 폰트, 레이아웃 등이 담겨있는 폴더
+3) java : java 폴더에서는 자바 소스 코드를 입력 가능
+4) Gradle Scripts : project build script를 가지고 있는 파일
